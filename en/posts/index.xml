@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Customize Your Own Library</title>
+        <link>https://doraemonv.github.io/en/posts/</link>
+        <description>All Posts | Customize Your Own Library</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</lastBuildDate><atom:link href="https://doraemonv.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>The Housing Boom and Bust</title>
+    <link>https://doraemonv.github.io/en/the_housing_boom_and_bust/</link>
+    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonv.github.io/en/the_housing_boom_and_bust/</guid>
+    <description><![CDATA[房地产的繁荣与萧条]]></description>
+</item><item>
+    <title>Make it Stick</title>
+    <link>https://doraemonv.github.io/en/make_it_stick/</link>
+    <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonv.github.io/en/make_it_stick/</guid>
+    <description><![CDATA[让所学与你相关：学有所成的科学]]></description>
+</item><item>
+    <title>How to Ask Questions: The Smart Way</title>
+    <link>https://doraemonv.github.io/en/how_to_ask_questions/</link>
+    <pubDate>Tue, 15 Feb 2022 13:38:16 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonv.github.io/en/how_to_ask_questions/</guid>
+    <description><![CDATA[提问的智慧]]></description>
+</item><item>
+    <title>Blood in the Streets</title>
+    <link>https://doraemonv.github.io/en/blood_in_the_streets/</link>
+    <pubDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonv.github.io/en/blood_in_the_streets/</guid>
+    <description><![CDATA[血流成河：在疯狂的世界中获利]]></description>
+</item><item>
+    <title>Calibre Quick Start Guide</title>
+    <link>https://doraemonv.github.io/en/calibre_quick_start/</link>
+    <pubDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonv.github.io/en/calibre_quick_start/</guid>
+    <description><![CDATA[Calibre 快速入门指南]]></description>
+</item></channel>
+</rss>
