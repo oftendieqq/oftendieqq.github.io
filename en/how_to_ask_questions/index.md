@@ -92,9 +92,9 @@ Search, *then* ask on Stack Exchange
 
 In recent years, the Stack Exchange community of sites has emerged as a major resource for answering technical and other questions and is even the preferred forum for many open-source projects.
 
-Start with a Google search before looking at Stack Exchange; Google indexes it in real time. There's a very good chance someone has already asked a similar question, and the Stack Exchange sites are often near the top of the search results. If you didn't find anything through Google, search again on the specific site most relevant to your question (see below). Searching with tags can help narrow down the results.
+Start with a Google search before looking at Stack Exchange; Google indexes it in real time. There's a very good chance someone has already asked a similar question, and the Stack Exchange sites are often near the top of the search results. If you didn't find anything through Google, search again on the specific site most relevant to your question (see below). **Searching with tags can help narrow down the results.**
 
-If you still didn't find anything, post your question on the *one* site where it's most on-topic. Use the formatting tools, especially for code, and add tags that are related to the substance of your question (particularly the name of the programming language, operating system, or library you're having trouble with). If a commenter asks you for more information, edit your main post to include it. If any answer is helpful, click the up arrow to upvote it; if an answer gives a solution to your problem, click the check under the voting arrows to accept it as correct.
+If you still didn't find anything, post your question on the *one* site where it's most on-topic. **Use the formatting tools, especially for code, and add tags that are related to the substance of your question** (particularly the name of the programming language, operating system, or library you're having trouble with). If a commenter asks you for more information, edit your main post to include it. If any answer is helpful, click the up arrow to upvote it; if an answer gives a solution to your problem, click the check under the voting arrows to accept it as correct.
 
 Stack Exchange has grown to [over 100 sites](http://stackexchange.com/sites), but here are the most likely candidates:
 
@@ -416,8 +416,6 @@ Don't let yourself be drawn into a flamewar, either. Most flames are best ignore
 
 Here are some classic stupid questions, and what hackers are thinking when they don't answer them.
 
-
-
 - Q: [Where can I find program or resource X?](http://www.catb.org/~esr/faqs/smart-questions.html#idm551)
 - Q: [How can I use X to do Y?](http://www.catb.org/~esr/faqs/smart-questions.html#idm557)
 - Q: [How can I configure my shell prompt?](http://www.catb.org/~esr/faqs/smart-questions.html#idm562)
@@ -454,27 +452,27 @@ Finally, I'm going to illustrate how to ask questions in a smart way by example;
 
 - **Stupid:** Where can I find out stuff about the Foonly Flurbamatic?
 
-  This question just begs for ["STFW"](http://www.catb.org/~esr/faqs/smart-questions.html#rtfm) as a reply.
+  > This question just begs for ["STFW"](http://www.catb.org/~esr/faqs/smart-questions.html#rtfm) as a reply.
 
 - **Smart:** I used Google to try to find “Foonly Flurbamatic 2600” on the Web, but I got no useful hits. Can I get a pointer to programming information on this device?
 
-  This one has already STFWed, and sounds like there might be a real problem.
+  > This one has already STFWed, and sounds like there might be a real problem.
 
 - **Stupid:** I can't get the code from project foo to compile. Why is it broken?
 
-  The querent assumes that somebody else screwed up. Arrogant git...
+  > The querent assumes that somebody else screwed up. Arrogant git...
 
 - **Smart:** The code from project foo doesn't compile under Nulix version 6.2. I've read the FAQ, but it doesn't have anything in it about Nulix-related problems. Here's a transcript of my compilation attempt; is it something I did?
 
-  The querent has specified the environment, read the FAQ, is showing the error, and is not assuming his problems are someone else's fault. This one might be worth some attention.
+  > The querent has specified the environment, read the FAQ, is showing the error, and is not assuming his problems are someone else's fault. This one might be worth some attention.
 
 - **Stupid:** I'm having problems with my motherboard. Can anybody help?
 
-  J. Random Hacker's response to this is likely to be “Right. Do you need burping and diapering, too?” followed by a punch of the delete key.
+  > J. Random Hacker's response to this is likely to be “Right. Do you need burping and diapering, too?” followed by a punch of the delete key.
 
 - **Smart:** I tried X, Y, and Z on the S2464 motherboard. When that didn't work, I tried A, B, and C. Note the curious symptom when I tried C. Obviously the florbish is grommicking, but the results aren't what one might expect. What are the usual causes of grommicking on Athlon MP motherboards? Anybody got ideas for more tests I can run to pin down the problem?
 
-  This person, on the other hand, seems worthy of an answer. He/she has exhibited problem-solving intelligence rather than passively waiting for an answer to drop from on high.
+  > This person, on the other hand, seems worthy of an answer. He/she has exhibited problem-solving intelligence rather than passively waiting for an answer to drop from on high.
 
 In the last question, notice the subtle but important difference between demanding “Give me an answer” and “Please help me figure out what additional diagnostics I can run to achieve enlightenment.”
 
