@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>skill - 标签 - 定制你自己的图书馆</title>
-        <link>https://doraemonj.github.io/tags/skill/</link>
+        <link>https://oftendieqq.github.io/tags/skill/</link>
         <description>skill - 标签 - 定制你自己的图书馆</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/skill/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="https://oftendieqq.github.io/tags/skill/" rel="self" type="application/rss+xml" /><item>
     <title>让所学和你相关</title>
-    <link>https://doraemonj.github.io/make_it_stick/</link>
+    <link>https://oftendieqq.github.io/make_it_stick/</link>
     <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://doraemonj.github.io/make_it_stick/</guid>
+    <guid>https://oftendieqq.github.io/make_it_stick/</guid>
     <description><![CDATA[Make it Stick: The Science of Successful Learning]]></description>
 </item></channel>
 </rss>
