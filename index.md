@@ -2,10 +2,10 @@ TXTshop机器翻译作品：
 
 ### 2022年03月
 
-[How to Solve it: The calssic introduction to mathematical problem-solving - with a foreword
-by Ian Stewart
-如何解决问题？解决数学问题的经典介绍 —— 附前言
-作者：伊恩-斯图尔特](https://txtshop.github.io/books/b29_how_to_solve_it/en_zh.html)
+[How to Solve it: The calssic introduction to mathematical problem-solving - with a foreword](https://txtshop.github.io/books/b29_how_to_solve_it/en_zh.html)
+[by Ian Stewart](https://txtshop.github.io/books/b29_how_to_solve_it/en_zh.html)
+[如何解决问题？解决数学问题的经典介绍 —— 附前言](https://txtshop.github.io/books/b29_how_to_solve_it/en_zh.html)
+[作者：伊恩-斯图尔特](https://txtshop.github.io/books/b29_how_to_solve_it/en_zh.html)
 
 <a href='https://txtshop.github.io/books/b29_how_to_solve_it/en_zh.html'><img src="https://txtshop.github.io/books/b29_how_to_solve_it/cover.jpg" style="width:450px;" />
 
