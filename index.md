@@ -12,4 +12,4 @@ by Nassim Nicholas Taleb
 利益攸关：日常生活中隐藏的不对称性
 作者：纳西姆 · 尼古拉斯 · 塔勒布](https://txtshop.github.io/books/b28_skin_in_the_game/en_zh.html)
 
-![[](https://txtshop.github.io/books/b28_skin_in_the_game/en_zh.html)](https://txtshop.github.io/books/b28_skin_in_the_game/cover.jpg)
+<a href='https://txtshop.github.io/books/b28_skin_in_the_game/en_zh.html'><img src="https://txtshop.github.io/books/b28_skin_in_the_game/cover.jpg" style="width:450px;" /></a>
