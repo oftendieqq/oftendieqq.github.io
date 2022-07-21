@@ -4,7 +4,7 @@ TXTshop机器翻译作品：
 
 **How to Solve it: The calssic introduction to mathematical problem-solving - with a foreword**
 
-**by Ian Stewart**
+**by Ian Stewart** 
 
 如何解决问题？解决数学问题的经典介绍 —— 附前言
 
